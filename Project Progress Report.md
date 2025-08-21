@@ -27,7 +27,7 @@ In today's digital era, health and wellbeing are becoming increasingly important
 This report serves as a technical design plan documentation for this project. User stories will be defined, followed by detailed design documentation of the database and the software architecture. Finally a test plan will be provided and evidence of the team project setup will be shared.
 2. User Stories
 User Registration & Authentication
-1.	As a new user, I want to register using my email and password, so that I can create a personalized fitness profile.
+1.	The user will like to register using their email and password, so that he/she can create a personalized fitness profile.
 2.	As a returning user, I want to log in using my registered credentials, so that I can access my personalized workout and diet plans.
 AI-Generated Fitness Plan
 3.	As a user, I want to input my fitness goal, available workout days, and time per day, so that the app can generate a 7-day personalized workout plan.
